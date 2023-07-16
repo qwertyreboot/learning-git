@@ -1,0 +1,13 @@
+Git - version control system
+
+Github - website
+
+Uses
+ - easy to manage 
+ - easy to share
+
+
+Repositories (repos)
+
+working directory -> staging area -> local repo -> remote repo
+                 add             commit        push
