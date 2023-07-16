@@ -3,8 +3,8 @@ Git - version control system
 Github - website
 
 Uses
- - easy to manage 
- - easy to share
+ - collaboration with peers and community
+ - code history tracking
 
 
 Repositories (repos)
