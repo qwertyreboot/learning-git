@@ -11,3 +11,7 @@ working directory -> staging area -> local repo -> remote repo <- B's local repo
                                                fetch
                   <-               <-             <-
                             pull
+
+
+
+                            hello there
