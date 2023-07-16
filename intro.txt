@@ -2,12 +2,12 @@ Git - version control system
 
 Github - website
 
-Uses
- - collaboration with peers and community
- - code history tracking
-
 
 Repositories (repos)
 
-working directory -> staging area -> local repo -> remote repo
+working directory -> staging area -> local repo -> remote repo <- B's local repo
                  add             commit        push
+                                                <-
+                                               fetch
+                  <-               <-             <-
+                            pull
